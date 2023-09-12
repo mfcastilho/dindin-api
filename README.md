@@ -63,7 +63,7 @@ A Dindin API está disponível em um ambiente de produção. Acesse a documenta�
 - pg
 - nodemon
 
-## Autores
+## Desenvolvedores
 
 - Mario Frederico Castilho - Desenvolvedor BackEnd - <a href="https://github.com/mfcastilho" target="_blank">Perfil GitHub</a>
 - Mário Silva - Desenvolvedor BackEnd - <a href="https://github.com/mariosilva81" target="_blank">Perfil GitHub</a>
