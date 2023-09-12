@@ -29,6 +29,11 @@ Clone este repositório e instale as dependências do projeto:
 git clone https://github.com/mariofredericocursos/desafio-modulo3-curso-backend-cubos.git
 cd dindin-api
 npm install
+```
+
+## Criação do Bando de Ddos
+
+No arquivo dump.sql que está dentro da pasta database contém as queries de criação do banco, das tabelas e de iserção das categorias. 
 
 ## Configuração do Banco de Dados
 
@@ -36,21 +41,23 @@ Configure as informações do seu banco de dados no arquivo `.env`.
 
 ## Execução
 
-Para iniciar o servidor da API, execute o seguinte comando:
+Para iniciar o servidor da API em modo de Desenvolvimento, execute o seguinte comando:
 
 ```bash
-npm start
+npm run dev
+```
 
 ## Documentação da API
 
-A documentação da API não está disponível em um ambiente de produção, pois o projeto não foi implantado. Você pode consultar os endpoints diretamente no código-fonte ou usar ferramentas de teste de API, como o Postman.
+A Dindin API está disponível em um ambiente de produção. Acesse a documentação da API no <a href="https://mfcastilho.github.io/dindin-api-documentacao/" target="_blank">link</a> .
 
 ## Tecnologias e Bibliotecas Utilizadas
 
 - Node.js
 - Express.js
 - PostgreSQL
-- bcrypt
+- bcryptjs
+- express-async-errors
 - dotenv
 - jwt
 - pg
@@ -58,8 +65,8 @@ A documentação da API não está disponível em um ambiente de produção, poi
 
 ## Autores
 
-Mario Frederico Castilho - Desenvolvedor BackEnd
-Mário Silva - Desenvolvedor BackEnd
+- Mario Frederico Castilho - Desenvolvedor BackEnd - <a href="https://github.com/mfcastilho" target="_blank">Repositório</a>
+- Mário Silva - Desenvolvedor BackEnd - <a href="https://github.com/mariosilva81" target="_blank">Repositório</a>
 
 ## Demais informações
 
@@ -68,5 +75,3 @@ Este projeto foi desenvolvido como parte do Desafio do Módulo 3 da Cubos Academ
 O projeto foi commitado de uma só vez, fora dos padrões, devido ao fato de que o repositório original de onde o desafio foi forkado é privado e de propriedade da Cubos Academy.
 
 
-
-# dindin-api
