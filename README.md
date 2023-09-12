@@ -1,7 +1,7 @@
 # Dindin API
 
 
-A Dindin API é um sistema de controle de gastos pessoais. Desenvolvido como resultado do Desafio do Módulo 3 da Cubos Academy.
+A Dindin API é um sistema de controle de gastos pessoais. Desenvolvido como resultado do Desafio do Módulo 3 do curso de Desenvolvimento de Software com foco em Backend da Cubos Academy.
 
 ## Principais Recursos
 
