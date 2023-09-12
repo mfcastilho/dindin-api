@@ -31,7 +31,7 @@ cd dindin-api
 npm install
 ```
 
-## Criação do Bando de Ddos
+## Criação do Bando de Dados
 
 No arquivo dump.sql que está dentro da pasta database contém as queries de criação do banco, das tabelas e de iserção das categorias. 
 
