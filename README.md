@@ -74,4 +74,7 @@ Este projeto foi desenvolvido como parte do Desafio do Módulo 3 da Cubos Academ
 
 O projeto foi commitado de uma só vez, fora dos padrões, devido ao fato de que o repositório original de onde o desafio foi forkado é privado e de propriedade da Cubos Academy.
 
+## Agradecimentos
+
+Gostaria de agradecer aos meus professores Lucas Carvalho, Guido Cerqueira pelo apoio e aprendizado, ao colega Danilo Freiria por disponibilizar o modelo do readme do projeto e a Cubos Academy por todo o suporte.
 
