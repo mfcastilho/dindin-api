@@ -70,9 +70,8 @@ A Dindin API está disponível em um ambiente de produção. Acesse a documenta�
 
 ## Demais informações
 
-Este projeto foi desenvolvido como parte do Desafio do Módulo 3 da Cubos Academy. Sinta-se à vontade para explorar, usar e contribuir!
-
-O projeto não possui os commits originais feitos durante o desenvolvimento do mesmo, devido ao fato de que o repositório original de onde o desafio foi forkado é privado e de propriedade da Cubos Academy.
+- Este projeto foi desenvolvido como parte do Desafio do Módulo 3 da Cubos Academy. Sinta-se à vontade para explorar, usar e contribuir!
+- O projeto não possui os commits originais feitos durante o desenvolvimento do mesmo, devido ao fato de que o repositório original de onde o desafio foi forkado é privado e de propriedade da Cubos Academy.
 
 ## Agradecimentos
 
